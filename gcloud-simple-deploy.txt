@@ -1,0 +1,7 @@
+1. Create new account / Login google cloud
+2. Create project
+3. Select configuration language to Go & enviroment to Standard
+4. Download gcloud SDK
+5. RUN gcloud init -> login -> select project
+6. Create app.yaml configuration
+7. RUN gcloud app deploy

@@ -1,0 +1,1 @@
+standard go yaml: https://cloud.google.com/appengine/docs/standard/go/building-app
